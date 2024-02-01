@@ -9,7 +9,7 @@ class Animal:
         print(f"{self.nom} ({self.espèce}), {self.âge} ans, {self.sexe}")
 
     def émettre_son(self):
-        print("Cri indéfini")
+        print("Cri indéfini !")
 
 
 class Enclos:
